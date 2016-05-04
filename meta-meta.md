@@ -9,6 +9,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 (*also: other interesting stuff beyond meta - tutorials etc.*)
 
 ### Software Development
+* [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [List of free coding books on the web](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 * [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 * [Messaging as an alternative programming model](http://www.rebelscience.org/Cosas/Reliability.htm)
