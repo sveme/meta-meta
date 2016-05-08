@@ -1,14 +1,9 @@
-Title: meta-meta
-Date: 2016-02-15
-Category: Development
-Tags: javascript, html, web, mac, os, machine learning, interesting stuff, references
-Author: Sven Mesecke
-
 A meta list of meta ressources (i.e., a link list of link lists)
 
 (*also: other interesting stuff beyond meta - tutorials etc.*)
 
 ### Software Development
+* [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
 * [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [List of free coding books on the web](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 * [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
@@ -46,8 +41,5 @@ A meta list of meta ressources (i.e., a link list of link lists)
 * [One Page R: A Survival Guide to Data Science with R](http://onepager.togaware.com/)
 * [Data Mining Resources](http://datamining.togaware.com/)
 * [R Bootcamp](http://jaredknowles.com/r-bootcamp/)
-
-### Little known OS features
-* [Hidden/not well-documented features in Mac OS X](http://apple.stackexchange.com/questions/400/please-share-your-hidden-os-x-features-or-tips-and-tricks)
 
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
