@@ -3,6 +3,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 (*also: other interesting stuff beyond meta - tutorials etc.*)
 
 ### Software Development
+* [Git Tips](https://github.com/git-tips/tips)
 * [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
 * [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [List of free coding books on the web](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
