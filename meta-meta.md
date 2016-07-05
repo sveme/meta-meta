@@ -7,7 +7,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 * [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
 * [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [List of free coding books on the web](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
-* [An updated list of free programming books (see above)](https://github.com/vhf/free-programming-books 
+* [An updated list of free programming books - see the item above](https://github.com/vhf/free-programming-books)
 * [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 * [Messaging as an alternative programming model](http://www.rebelscience.org/Cosas/Reliability.htm)
 * [Understanding SQL](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql)
