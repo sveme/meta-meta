@@ -22,6 +22,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 ### Web Development
 * [Zelda's programming resources for beginners (with an emphasis on web development)](https://www.vodien.com/singapore-community/education/beginners-resources-to-learn-programming-languages.php)
 * [Awesome React - Community-curated list of React resources](https://github.com/enaqx/awesome-react)
+* [Curated list of React and Redux resources and tutorials](https://github.com/markerikson/react-redux-links)
 * [Frontend Development Frameworks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Backend Development Architectures](https://gist.github.com/ragingwind/5840075)
 * [Frontend architectures](http://blog.pamelafox.org/2013/05/frontend-architectures-server-side-html.html)
