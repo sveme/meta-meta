@@ -22,6 +22,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 ### Web Development
 * [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - a list of Free Software network services and web applications which can be hosted locally
 * [Zelda's programming resources for beginners (with an emphasis on web development)](https://www.vodien.com/singapore-community/education/beginners-resources-to-learn-programming-languages.php)
+* [A list of tools Facebook found to work really well with React when building applications.](https://github.com/facebook/react/wiki/Complementary-Tools)
 * [Awesome React - Community-curated list of React resources](https://github.com/enaqx/awesome-react)
 * [Curated list of React and Redux resources and tutorials](https://github.com/markerikson/react-redux-links)
 * [Frontend Development Frameworks](https://github.com/dypsilon/frontend-dev-bookmarks)
