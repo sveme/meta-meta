@@ -25,7 +25,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 * [A list of tools Facebook found to work really well with React when building applications.](https://github.com/facebook/react/wiki/Complementary-Tools)
 * [Awesome React - Community-curated list of React resources](https://github.com/enaqx/awesome-react)
 * [Curated list of React and Redux resources and tutorials](https://github.com/markerikson/react-redux-links)
-* [React UI components library](https://github.com/brillout/awesome-react-components
+* [React UI components library](https://github.com/brillout/awesome-react-components)
 * [Frontend Development Frameworks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Backend Development Architectures](https://gist.github.com/ragingwind/5840075)
 * [Frontend architectures](http://blog.pamelafox.org/2013/05/frontend-architectures-server-side-html.html)
