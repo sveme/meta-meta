@@ -14,6 +14,7 @@ A meta list of meta ressources (i.e., a link list of link lists)
 * [Functional Programming Explained (and an Intro to Clojure Book)](http://www.braveclojure.com/functional-programming/)
 * [The Architecture of Open-Source Applications](http://aosabook.org/en/index.html)
 * [97 Things every programmer should know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
+* [A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.](https://github.com/adamsitnik/awesome-dot-net-performance)
 
 ### Desktop Development
 * [Awesome Electron - Community-curated list of Electron resources](https://github.com/sindresorhus/awesome-electron)
