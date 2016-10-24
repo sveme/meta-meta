@@ -52,5 +52,8 @@ Aggregates all those *Awesome* framework and resource summary lists here on gith
 * [Data Mining Resources](http://datamining.togaware.com/)
 * [R Bootcamp](http://jaredknowles.com/r-bootcamp/)
 
+### Miscellaneous
+* [Games on Github](https://github.com/leereilly/games)
+
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
 
