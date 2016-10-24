@@ -54,6 +54,7 @@ Aggregates all those *Awesome* framework and resource summary lists here on gith
 
 ### Miscellaneous
 * [Games on Github](https://github.com/leereilly/games)
+* [The Remote Freelancer - Community-curated resources for remote freelancers](https://github.com/engineerapart/TheRemoteFreelancer)
 
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
 
