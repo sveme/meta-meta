@@ -5,12 +5,12 @@
 Aggregates all those *Awesome* framework and resource summary lists here on github and elsewhere for easy reference. Happy to receive suggestions and pull requests.
 
 ### General Software Development
-* [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
-* [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [List of free coding books on the web](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 * [An updated list of free programming books - see the item above](https://github.com/vhf/free-programming-books)
 * [The Architecture of Open-Source Applications](http://aosabook.org/en/index.html)
 * [A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.](https://github.com/adamsitnik/awesome-dot-net-performance)
+* [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
+* [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
 
 ### Desktop Development
 * [Awesome Electron - Community-curated list of Electron resources](https://github.com/sindresorhus/awesome-electron)
@@ -32,6 +32,7 @@ Aggregates all those *Awesome* framework and resource summary lists here on gith
 
 ### Data Science
 * [Great Machine Learning Resources](http://wayfinder.co/pathways/5302a21dfc4065200a000004/great-machine-learning-resources)
+* [Deep Paper Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Data Mining Resources](http://datamining.togaware.com/)
 
 ### Miscellaneous
