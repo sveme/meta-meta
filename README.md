@@ -40,5 +40,6 @@ Aggregates all those *Awesome* framework and resource summary lists here on gith
 * [Games on Github](https://github.com/leereilly/games)
 * [The Remote Freelancer - Community-curated resources for remote freelancers](https://github.com/engineerapart/TheRemoteFreelancer)
 * [Curated list of various freelancing sites](https://github.com/prahladyeri/CuratedLists/blob/master/FreelancingSites.md)
+* [A list of SaaS, PaaS and IaaS offerings with free tiers for devops](https://github.com/ripienaar/free-for-dev)
 
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
