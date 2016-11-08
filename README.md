@@ -5,7 +5,6 @@
 Aggregates all those *Awesome* framework and resource summary lists here on github and elsewhere for easy reference. Happy to receive suggestions and pull requests.
 
 ### General Software Development
-* [List of free coding books on the web](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 * [An updated list of free programming books - see the item above](https://github.com/vhf/free-programming-books)
 * [The Architecture of Open-Source Applications](http://aosabook.org/en/index.html)
 * [A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.](https://github.com/adamsitnik/awesome-dot-net-performance)
