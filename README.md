@@ -29,6 +29,7 @@ Aggregates all those *Awesome* framework and resource summary lists here on gith
 * [From HTML to Node.js - web dev tutorials](http://www.bentobox.io/)
 * [An introduction to APIs](https://zapier.com/learn/apis/)
 * [A comparison of best Frontend Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+* [A list of Headless Browsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 
 ### Data Science
 * [Great Machine Learning Resources](http://wayfinder.co/pathways/5302a21dfc4065200a000004/great-machine-learning-resources)
