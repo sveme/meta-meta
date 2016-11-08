@@ -1,4 +1,4 @@
-# meta-meta
+# Awesome meta-meta
 
 ### A meta list of meta ressources (i.e., a link list of link lists)
 
