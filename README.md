@@ -4,7 +4,7 @@
 
 Aggregates all those *Awesome* framework and resource summary lists here on github and elsewhere for easy reference. Happy to receive suggestions and pull requests.
 
-For a complementary, but much more extensive list, check out [the Awesome repo](https://github.com/sindresorhus/awesome)
+For a complementary, but much more extensive list check out [the Awesome repo](https://github.com/sindresorhus/awesome)
 
 ### General Software Development
 * [An updated list of free programming books - see the item above](https://github.com/vhf/free-programming-books)
