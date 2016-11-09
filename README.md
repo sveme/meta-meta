@@ -7,7 +7,8 @@ Aggregates all those *Awesome* framework and resource summary lists here on gith
 For a complementary, but much more extensive list check out [the Awesome repo](https://github.com/sindresorhus/awesome)
 
 ### General Software Development
-* [An updated list of free programming books - see the item above](https://github.com/vhf/free-programming-books)
+* [A huge collection of free books for developers](https://devfreebooks.github.io/)
+* [An updated list of free programming books](https://github.com/vhf/free-programming-books)
 * [The Architecture of Open-Source Applications](http://aosabook.org/en/index.html)
 * [A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
