@@ -13,6 +13,7 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
+* [Awesome Hacking -  A collection of various awesome lists for hackers, pentesters and security researchers ](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ### Desktop Development
 * [Awesome Electron - Community-curated list of Electron resources](https://github.com/sindresorhus/awesome-electron)
