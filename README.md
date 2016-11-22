@@ -14,6 +14,7 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [Books and other resources that enlighten your path to Programming Language Theory](https://github.com/steshaw/plt)
 * [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
 * [Awesome Hacking -  A collection of various awesome lists for hackers, pentesters and security researchers ](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses)
 
 ### Desktop Development
 * [Awesome Electron - Community-curated list of Electron resources](https://github.com/sindresorhus/awesome-electron)
@@ -33,6 +34,7 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [An introduction to APIs](https://zapier.com/learn/apis/)
 * [A comparison of best Frontend Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
 * [A list of Headless Browsers](https://github.com/dhamaniasad/HeadlessBrowsers)
+* [Youtube channels for frontend developers](https://github.com/andrew--r/channels)
 
 ### Data Science
 * [Great Machine Learning Resources](http://wayfinder.co/pathways/5302a21dfc4065200a000004/great-machine-learning-resources)
