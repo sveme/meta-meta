@@ -21,6 +21,7 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 
 ### Web Development
 * [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - a list of Free Software network services and web applications which can be hosted locally
+* [Services that have free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget)
 * [Zelda's programming resources for beginners (with an emphasis on web development)](https://www.vodien.com/singapore-community/education/beginners-resources-to-learn-programming-languages.php)
 * [A list of tools Facebook found to work really well with React when building applications.](https://github.com/facebook/react/wiki/Complementary-Tools)
 * [Awesome React - Community-curated list of React resources](https://github.com/enaqx/awesome-react)
@@ -46,5 +47,6 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [The Remote Freelancer - Community-curated resources for remote freelancers](https://github.com/engineerapart/TheRemoteFreelancer)
 * [Curated list of various freelancing sites](https://github.com/prahladyeri/CuratedLists/blob/master/FreelancingSites.md)
 * [A list of SaaS, PaaS and IaaS offerings with free tiers for devops](https://github.com/ripienaar/free-for-dev)
+* [List of Public APIs](https://github.com/abhishekbanthia/Public-APIs)
 
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
