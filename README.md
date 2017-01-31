@@ -48,5 +48,6 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [Curated list of various freelancing sites](https://github.com/prahladyeri/CuratedLists/blob/master/FreelancingSites.md)
 * [A list of SaaS, PaaS and IaaS offerings with free tiers for devops](https://github.com/ripienaar/free-for-dev)
 * [List of Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+* [Awesome Electronics resources](https://github.com/monostable/awesome-electronics)
 
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
