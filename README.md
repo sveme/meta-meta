@@ -49,5 +49,7 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [A list of SaaS, PaaS and IaaS offerings with free tiers for devops](https://github.com/ripienaar/free-for-dev)
 * [List of Public APIs](https://github.com/abhishekbanthia/Public-APIs)
 * [Awesome Electronics resources](https://github.com/monostable/awesome-electronics)
+* [Awesome Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - Games that teach coding
+* [OSX Command Line tipps and tricks](https://github.com/herrbischoff/awesome-osx-command-line)
 
 *Knowing other meta resources? Please contribute to the [meta-meta repository](https://github.com/sveme/meta-meta) on github*
