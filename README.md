@@ -15,6 +15,7 @@ For a complementary, but much more extensive list check out [the Awesome repo](h
 * [Tools that handle structured text](https://github.com/dbohdan/structured-text-tools)
 * [Awesome Hacking -  A collection of various awesome lists for hackers, pentesters and security researchers ](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Compiler resources](https://github.com/aalhour/awesome-compilers)
 
 ### Desktop Development
 * [Awesome Electron - Community-curated list of Electron resources](https://github.com/sindresorhus/awesome-electron)
